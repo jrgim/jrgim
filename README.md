@@ -1,5 +1,7 @@
-# 💫 About Me:
-🤖I am a fan of home automation.<br>🏠I am currently using Home Assistant. <br>🎬I also like video editing and photography.📸<br>🌱 I’m currently learning Java, html, css and C++<br>📄 Now I'm studying computer engineering at USJ
+<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h2 align ="center">💫 About Me:</h2>
+<h3>🕹️I'm a passionate techie from Spain<br>
+🤖I am a fan of home automation.<br>🏠I am currently using Home Assistant. <br>🎬I also like video editing and photography.📸<br>🌱 I’m currently learning Java, html, css and C++<br>📄 Now I'm studying computer engineering at USJ</h3>
 
 
 ## 🌐 Socials:
